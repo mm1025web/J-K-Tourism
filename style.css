@@ -124,7 +124,13 @@ html {
   cursor: pointer;
   flex-direction: column;
 }
-
+@media(max-width:650px){
+  .navbar-icon{
+    transform: scale(0.7);
+   
+  }
+  
+}
 .open-navbar-icon {
   position: fixed;
   top: 6.5rem;
