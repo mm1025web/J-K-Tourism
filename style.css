@@ -132,7 +132,9 @@ html {
     top: 3rem !important;
     right: 2rem!important;
   }
-  
+  .close-navbar-icon{
+    top: 3.5rem;
+  }
 }
 .open-navbar-icon {
   position: fixed;
