@@ -599,7 +599,13 @@ html {
   text-shadow: 0 1rem 2rem rgb(100, 100, 100);
   margin-bottom: 8rem;
 }
-
+@media(max-width:650px){
+  .contact-heading{
+    font-size: 5rem;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+}
 .contact-form {
   width: 70rem;
   height: 50rem;
