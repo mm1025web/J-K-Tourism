@@ -127,7 +127,10 @@ html {
 @media(max-width:650px){
   .navbar-icon{
     transform: scale(0.7);
-   
+  }
+  .logo {
+    top: 3rem !important;
+    right: 2rem!important;
   }
   
 }
