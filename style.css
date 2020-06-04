@@ -544,6 +544,8 @@ html {
   width: 70%;
   box-shadow: 0 2rem 5rem rgba(51, 51, 51, 0.4);
   transform: skewX(25deg);
+  box-sizing: border-box;
+  box-shadow: 4px 4px 7px #000;
 }
 
 .story {
